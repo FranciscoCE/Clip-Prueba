@@ -14,7 +14,7 @@ Para levantar esta API de Spring - Boot tienes que seguir los siguientes pasos:
 
 4.- Posterior, ejecutamos la siguiente línea para iniciar RabbitMQ en Docker images
 
-5.- Si los pasos anteriores fueron correctos podras ingresar la url del localhost de RabbitMQ (http://localhost:15672/#/) y de deberá observar un apartado 
+5.- Si los pasos anteriores fueron correctos podras ingresar la url del localhost de RabbitMQ (http://localhost:15672/#/) y se deberá observar un apartado 
     donde se puede realizar un login con usuario y contraseña "guest" para ambos campos.
     
 6.- Ingresando se tendrá una consola donde se podrán administrar los queues que se vayan creando, los mensajes, etc
